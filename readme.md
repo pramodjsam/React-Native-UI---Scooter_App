@@ -26,7 +26,7 @@ npm run start
 ## Screenshot
 
 ##### Main page
-<img src="./screenshots/screenshot-1.png" width="300" height="600">
+<img src="./screenshots/screenshot-2.png" width="300" height="600">
 
 ##### Detail page
-<img src="./screenshots/screenshot-2.png" width="300" height="600">
+<img src="./screenshots/screenshot-1.png" width="300" height="600">
